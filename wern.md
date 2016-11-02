@@ -30,5 +30,5 @@ I believe music plays a huge role while exercising to help you stay inspired and
 
 # Diet
 
-I don't really plan my diet, I eat whatever is on the table. But I try to avoid fatty foods, eat fruit for every meal (usually banana), and stick to only one cup of rice.  
+I don't really plan my diet, I eat whatever is on the table. But I try to avoid fatty foods, eat fruit for every meal (usually banana), and stick to only one cup of rice. The plan is to add more protein (meat) and fiber (vegetables) into every meal and skip rice for 1 meal per day.
 
