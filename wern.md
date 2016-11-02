@@ -9,8 +9,8 @@ I do exercises 30-45 minutes twice a day
 
 I use Fitbit to measure physical activity (usually measured in steps and high-intensity activity). 
 
-Target: 6 stars of Fitbit (10,000 steps), 10 minutes of high-intensity activity
-Current: 4 stars of Fitbit (8,000 steps), 5 minutes of high-intensity activity
+- Target: 6 stars of Fitbit (10,000 steps), 10 minutes of high-intensity activity
+- Current: 4 stars of Fitbit (8,000 steps), 5 minutes of high-intensity activity
 
 ## Anaerobic 
 
