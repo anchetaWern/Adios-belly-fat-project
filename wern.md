@@ -4,7 +4,7 @@ I do exercises 30-45 minutes twice a day
 
 ## Aerobic
 
-- Jogging in place when indoors
+- Stationary jogging when indoors
 - Alternate jogging and running when outdoors
 
 I use Fitbit to measure physical activity (usually measured in steps and high-intensity activity). 
@@ -14,11 +14,12 @@ I use Fitbit to measure physical activity (usually measured in steps and high-in
 
 ## Anaerobic 
 
-Applicable for every exercise session.
+Applicable for every exercise session. 
 
-- 50 sit-ups (target), 10 sit-ups (current) 
-- 35 push-ups (target), 6 push-ups (current) 
-- 50 crunches (target), 10 crunches (current)
+- sit-ups: 10 reps, 3 sets 
+- push-ups: 10 reps, 1 set  
+- lunges: 10 reps (left and right leg = 1 rep), 3 sets
+- squats: 10 reps, 3 sets
 
 ## Music
 
@@ -30,9 +31,11 @@ I believe music plays a huge role while exercising to help you stay inspired and
 
 # Diet
 
-I don't really plan my diet, I eat whatever is on the table. But I try to avoid fatty foods, eat fruit for every meal (usually banana), and stick to only one cup of rice. The plan is to add more protein (meat) and fiber (vegetables) into every meal and skip rice for 1 meal per day.
+- Eat more meat (protein source) but avoid the fat part
+- Eat more vegetables (vitamins, fiber source)
+- 1 cup of rice per meal (carbohydrates)
+- 1 fruit serving per meal (usually banana)
 
 # Others
 
-- Use standing desk for 4 hours a day, it burns 120 calories.
-- Laugh more, it burns 40 calories.
+- Use standing desk for 4-8 hours a day.
